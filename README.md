@@ -23,4 +23,12 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/mzbswh/mzbswh@snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbswh&langs_count=10&theme=tokyonight&layout=compact" alt="MBW :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzbswh&show_icons=true&theme=synthwave" alt="MBW :: Profile Stats" /></p>
+
 </div>
