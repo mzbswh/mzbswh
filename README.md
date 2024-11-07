@@ -45,3 +45,7 @@ Here are some ideas to get you started:
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzbswh&show_icons=true&theme=synthwave" alt="MBW :: Profile Stats" /></p>
 
 </div>
+
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
