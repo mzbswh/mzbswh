@@ -16,4 +16,4 @@ jobs:
       - name: Pull in blog's posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://www.peterjxl.com/rss.xml"
+          feed_list: "https://mzbswh.github.io/blog/index.xml"
