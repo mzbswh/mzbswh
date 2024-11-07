@@ -48,4 +48,5 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
 <!-- BLOG-POST-LIST:END -->
