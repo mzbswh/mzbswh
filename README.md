@@ -42,6 +42,13 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/mzbswh/mzbswh@snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
+<!-- BLOG-POST-LIST:END -->
+
+</div>
+
 <!-- Top Language -->
 <h4 align="center">Top langs :tongue:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzbswh&langs_count=10&theme=tokyonight&layout=compact" alt="MBW :: Top Langs" /></p>
@@ -50,9 +57,4 @@ Here are some ideas to get you started:
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mzbswh&show_icons=true&theme=synthwave" alt="MBW :: Profile Stats" /></p>
 
-</div>
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
-<!-- BLOG-POST-LIST:END -->
+[![mzbswh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mzbswh&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
