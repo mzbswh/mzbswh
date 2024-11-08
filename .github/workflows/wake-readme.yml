@@ -14,3 +14,15 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.TOKEN }}
+          COMMIT_BY_ME: true
+          SHOW_UPDATED_DATE: false
+          SHOW_LINES_OF_CODE: false
+          SHOW_TOTAL_CODE_TIME: false
+          SHOW_PROFILE_VIEWS: false
+          SHOW_COMMIT: false
+          SHOW_OS: false
+          SHOW_PROJECTS: false
+          SHOW_TIMEZONE: false
+          SHOW_EDITORS: false
+          SHOW_SHORT_INFO: false
+          SHOW_LOC_CHART: false
