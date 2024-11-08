@@ -42,6 +42,11 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/mzbswh/mzbswh@snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+📕 &nbsp;**Latest Blog Posts**
+<!-- BLOG-POST-LIST:START -->
+- [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
+<!-- BLOG-POST-LIST:END -->
+
 <!--START_SECTION:waka-->
 📅 **I'm Most Productive on Sunday** 
 
@@ -76,11 +81,6 @@ ShaderLab                1 repo              █████░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-📕 &nbsp;**Latest Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
-<!-- BLOG-POST-LIST:END -->
 
 </div>
 
