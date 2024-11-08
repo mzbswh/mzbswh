@@ -19,16 +19,20 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Badge -->
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=mzbswh&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/mzbswh?label=Follow&style=social)
+![GitHub forks](https://img.shields.io/github/forks/mzbswh/mzbswh)
+![GitHub User's stars](https://img.shields.io/github/stars/mzbswh)
+![GitHub watchers](https://img.shields.io/github/watchers/mzbswh/mzbswh)
 ![](https://visitor-badge.glitch.me/badge?page_id=mzbswh.mzbswh)
 <a href="mailto:mzbswh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail"></a>
 
 ### 👨‍💻 Languages and Tools
+[![Vim](https://img.shields.io/badge/--019733?logo=vim)](https://www.vim.org/)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-[![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+[![Visual Studio](https://badgen.net/badge/icon/visualstudio?icon=visualstudio&label)](https://visualstudio.microsoft.com)
   
 <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 <picture>
