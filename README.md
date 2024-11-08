@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Header](./github-header-image.png)
-
 <div align="center">
+
+![Header](./github-header-image.png)
+![Metrics](/metrics.classic.svg)
 
 <!-- Badge -->
 ![](https://komarev.com/ghpvc/?username=mzbswh&abbreviated=true)
