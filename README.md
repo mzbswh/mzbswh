@@ -43,58 +43,23 @@ Here are some ideas to get you started:
 </picture>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 203.7 kB Used in GitHub's Storage 
- > 
-> 🏆 64 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 7 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                35 commits          █████░░░░░░░░░░░░░░░░░░░░   18.04 % 
-🌆 Daytime                70 commits          █████████░░░░░░░░░░░░░░░░   36.08 % 
-🌃 Evening                89 commits          ███████████░░░░░░░░░░░░░░   45.88 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-Wednesday                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Thursday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
-Friday                   29 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
-Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-Sunday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Monday                   9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Tuesday                  19 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Wednesday                34 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+Thursday                 38 commits          █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Friday                   30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Saturday                 7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Sunday                   58 commits          ███████░░░░░░░░░░░░░░░░░░   29.74 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Shanghai
-
 💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
 No Activity Tracked This Week
 ```
 
@@ -109,12 +74,7 @@ ShaderLab                1 repo              █████░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/mzbswh/mzbswh/main/assets/bar_graph.png)
-
-
- Last Updated on 08/11/2024 03:36:24 UTC
 <!--END_SECTION:waka-->
 
 📕 &nbsp;**Latest Blog Posts**
