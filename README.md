@@ -1,5 +1,4 @@
 ### Hi there 👋 
-<img src="https://komarev.com/ghpvc/?username=mzbswh" alt="anandmainali" />
 <!--
 **mzbswh/mzbswh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,10 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
 
 <!-- Badge -->
+![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
 ![GitHub followers](https://img.shields.io/github/followers/mzbswh?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=mzbswh.mzbswh)
-
-<a href="mailto:mzbswh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-mzbswh@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mailto:mzbswh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail"></a>
 
 ### 👨‍💻 Languages and Tools
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
