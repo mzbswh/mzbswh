@@ -42,6 +42,8 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/mzbswh/mzbswh@snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+[![知识库](knowledge.png)](https://mzbswh.github.io/knowledge)
+
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
