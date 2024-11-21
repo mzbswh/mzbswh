@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [异步的简单了解-基本实现原理](https://mzbswh.github.io/blog/posts/0b5f289/)
 - [深入了解Lambda表达式-避免GC的产生](https://mzbswh.github.io/blog/posts/4e4b9ed/)
 - [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
 <!-- BLOG-POST-LIST:END -->
