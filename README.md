@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Task-异步与多线程](https://mzbswh.github.io/blog/posts/03_task-%E5%BC%82%E6%AD%A5%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
 - [Task-基本实现原理](https://mzbswh.github.io/blog/posts/0b5f289/)
 - [Lambda表达式-避免GC的产生](https://mzbswh.github.io/blog/posts/4e4b9ed/)
 - [开篇](https://mzbswh.github.io/blog/posts/583bc6c/)
