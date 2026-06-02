@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Harness Engineering](https://mzbswh.github.io/blog/posts/harness-engineering/)
 - [如何写出好的代码？](https://mzbswh.github.io/blog/posts/f56894b/)
 - [Unity引导实现方案](https://mzbswh.github.io/blog/posts/f04284d/)
 - [Windows &amp; ArchLinux双系统安装](https://mzbswh.github.io/blog/posts/69724bb/)
 - [Task-自定义任务](https://mzbswh.github.io/blog/posts/04_task-%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BB%BB%E5%8A%A1/)
-- [Task-异步与多线程](https://mzbswh.github.io/blog/posts/03_task-%E5%BC%82%E6%AD%A5%E4%B8%8E%E5%A4%9A%E7%BA%BF%E7%A8%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
